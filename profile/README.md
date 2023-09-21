@@ -10,6 +10,7 @@
 
 ## 📝 Open Source Libraries
 -   [🧐 git-autocomplete](https://github.com/RisingSquad/git-autocompletion-mac)  - Util to help setting git autocompletion for terminal (only mac).
+-   [📖 configs](https://github.com/RisingSquad/configs) - Configurations I use accross my projects 
 
 
 <!-- Reference -->
