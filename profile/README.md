@@ -4,14 +4,19 @@
 
 ## 🙋‍♀️ Our why is to learn new technologies while creating solutions, such as :
 
-- ### 🧅 Bun
-- ### 🦕 Deno
-- ### 🍋 Fresh
+- ### 🧅 [Bun][bun]
+- ### 🦕 [Deno][deno]
+- ### 🍋 [Fresh][fresh]
 
 ## 📝 Open Source Libraries
 -   [🧐 git-autocomplete](https://github.com/RisingSquad/git-autocompletion-mac)  - Util to help setting git autocompletion for terminal (only mac).
 
 
+<!-- Reference -->
+
+[deno]: https://deno.com/
+[bun]: https://bun.sh/
+[fresh]: https://fresh.deno.dev/
 
 <!--
 
