@@ -5,7 +5,12 @@
 ## 🙋‍♀️ Our why is to learn new technologies while creating solutions, such as :
 
 - ### 🧅 [Bun][bun]
+![Alt text](./controllers_brief.svg)
+<img src="./bun.svg">
+<p>
 <img height="32" width="32" src="./bun.svg" />
+</p>
+
 - ### 🦕 [Deno][deno]
 - ### 🍋 [Fresh][fresh]
 
@@ -19,6 +24,9 @@
 [deno]: https://deno.com/
 [bun]: https://bun.sh/
 [fresh]: https://fresh.deno.dev/
+
+![Alt text](./controllers_brief.svg)
+<img src="./controllers_brief.svg">
 
 
 <!--
