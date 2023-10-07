@@ -5,10 +5,9 @@
 ## 🙋‍♀️ Our why is to learn new technologies while creating solutions, such as :
 
 - ### 🧅 [Bun][bun]
-![Alt text](./bun.svg)
-<img src="./bun.svg">
+![Alt text](profile/bun.svg)
 <p>
-<img height="32" width="32" src="./bun.svg" />
+<img height="32" width="32" src="profile/bun.svg" />
 </p>
 
 - ### 🦕 [Deno][deno]
