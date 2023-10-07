@@ -4,12 +4,7 @@
 
 ## 🙋‍♀️ Our why is to learn new technologies while creating solutions, such as :
 
-- ### 
-<p>
-<img height="32" width="32" src="profile/bun.svg" />
-</p> 
-[Bun][bun]
-
+- ### <img height="32" width="32" src="profile/bun.svg" /> [Bun][bun]
 
 - ### 🦕 [Deno][deno]
 - ### 🍋 [Fresh][fresh]
