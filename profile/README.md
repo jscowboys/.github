@@ -4,10 +4,10 @@
 
 ## 🙋‍♀️ Our why is to learn new technologies while creating solutions, such as :
 
-- ### <img height="32" width="32" src="profile/bun.svg" /> [Bun][bun]
+- ### <img height="18" width="32" src="profile/bun.svg" /> [Bun][bun]
 
-- ### 🦕 [Deno][deno]
-- ### 🍋 [Fresh][fresh]
+- ### <img height="18" width="32" src="profile/deno.svg" /> [Deno][deno]
+- ### <img height="18" width="32" src="profile/fresh.png" /> [Fresh][fresh]
 
 ## 📝 Open Source Libraries
 -   [🧐 git-autocomplete](https://github.com/RisingSquad/git-autocompletion-mac)  - Util to help setting git autocompletion for terminal (only mac).
