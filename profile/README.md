@@ -20,10 +20,6 @@
 [bun]: https://bun.sh/
 [fresh]: https://fresh.deno.dev/
 
-![Alt text](./controllers_brief.svg)
-<img src="./controllers_brief.svg">
-
-
 <!--
 
 **Here are some ideas to get you started:**
