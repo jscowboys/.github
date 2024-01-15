@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="https://riseprogramme.org/themes/rise2020/images/social-media/RISE-Logo-og-image.png" style="height:10rem" /></a>
+  <a><img src="profile/rise.webp" style="height:10rem" /></a>
 </p>
 
 ## 🙋‍♀️ Our why is to learn new technologies while creating solutions, such as :
