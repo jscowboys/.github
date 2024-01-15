@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="profile/rise.webp" style="height:40rem" /></a>
+  <a><img src="profile/rise.webp" style="height:25rem" /></a>
 </p>
 
 ## 🙋‍♀️ Our why is to learn new technologies while creating solutions, such as :
