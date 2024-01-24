@@ -2,7 +2,7 @@
   <a><img src="profile/rise.webp" style="height:25rem" /></a>
 </p>
 
-## 🙋‍♀️ Our why is to learn new technologies while creating solutions, such as :
+## 🙋‍♀️ WHY?: Learn new technologies while creating solutions, such as :
 
 - ### <img height="20" width="30" src="profile/bun.svg" /> [Bun][bun]
 
