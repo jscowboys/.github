@@ -1,14 +1,9 @@
-<p align="center">
-  <a><img src="profile/rise.webp" style="height:25rem" /></a>
-</p>
-
-## 🙋‍♀️ WHY? 
+## WHY? 
 Learn new technologies while creating solutions, such as :
 
-- ### <img height="20" width="30" src="profile/bun.svg" /> [Bun][bun]
-
-- ### <img height="20" width="30" src="profile/deno.svg" /> [Deno][deno]
-- ### <img height="20" width="30" src="profile/fresh.png" /> [Fresh][fresh]
+- ### [Bun][bun]
+- ### [Deno][deno]
+- ### [Fresh][fresh]
 
 ## 📝 Open Source Libraries
 -   [🧐 git-autocomplete](https://github.com/RisingSquad/git-autocompletion-mac)  - Util to help setting git autocompletion for terminal (only mac).
