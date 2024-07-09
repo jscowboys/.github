@@ -3,6 +3,7 @@ Learn new technologies while creating solutions, such as :
 
 - ### [Bun][bun]
 - ### [Deno][deno]
+- ### [Next][next]
 - ### [Fresh][fresh]
 
 ## 📝 Open Source Libraries
@@ -15,7 +16,7 @@ Learn new technologies while creating solutions, such as :
 [deno]: https://deno.com/
 [bun]: https://bun.sh/
 [fresh]: https://fresh.deno.dev/
-
+[next]: https://nextjs.org/
 <!--
 
 **Here are some ideas to get you started:**
