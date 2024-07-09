@@ -6,7 +6,7 @@ Learn new technologies while creating solutions, such as :
 - ### [Fresh][fresh]
 
 ## 📝 Open Source Libraries
--   [🧐 git-autocomplete](https://github.com/jscowboys/git-autocompletion-mac)  - Util to help setting git autocompletion for terminal (only mac).
+-   [🧐 git-autocomplete](https://github.com/jscowboys/git-autocompletion)  - Util to help setting git autocompletion for terminal (only mac).
 -   [📖 configs](https://github.com/jscowboys/configs) - Configurations I use accross my projects 
 
 
