@@ -1,10 +1,18 @@
-## WHY? 
+# WHY? 
 Learn new technologies while creating solutions, such as :
 
-- ### [Bun][bun]
+## Backend
+
 - ### [Deno][deno]
-- ### [Next][next]
+- ### [Bun][bun]
 - ### [Fresh][fresh]
+
+## Frontend
+
+- ### [Astro][astro]
+- ### [Next][next]
+
+------------
 
 ## 📝 Open Source Libraries
 -   [🧐 git-autocomplete](https://github.com/jscowboys/git-autocompletion)  - Util to help setting git autocompletion for terminal (only mac).
@@ -17,6 +25,7 @@ Learn new technologies while creating solutions, such as :
 [bun]: https://bun.sh/
 [fresh]: https://fresh.deno.dev/
 [next]: https://nextjs.org/
+[astro]: https://astro.build/
 <!--
 
 **Here are some ideas to get you started:**
